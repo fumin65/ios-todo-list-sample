@@ -1,0 +1,13 @@
+
+/* Class = "UILabel"; accessibilityLabel = "Todo"; ObjectID = "T20-gV-PHH"; */
+"T20-gV-PHH.accessibilityLabel" = "Todo";
+
+/* Class = "UILabel"; text = "Todo Title"; ObjectID = "T20-gV-PHH"; */
+"T20-gV-PHH.text" = "TODOのタイトル";
+
+/* Class = "UINavigationItem"; title = "TodoList"; ObjectID = "aTi-LE-9R5"; */
+"aTi-LE-9R5.title" = "TODOリスト";
+
+"LUo-cK-xh6.placeholder"  = "タスク名";
+
+"vGE-EX-vGQ.normalTitle" = "追加";

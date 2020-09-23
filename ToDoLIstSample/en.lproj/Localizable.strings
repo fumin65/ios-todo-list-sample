@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  ToDoLIstSample
+
+  Created by Masafumi Abe on 2020/09/17.
+  
+*/
+"homeTitle" = "Todo List";
+"deleteTodo" = "Delete";
+"completeTodo" = "Complete";
+"uncompleteTodo" = "Uncomplete";
+"sectionCompleted" = "Completed";
+"sectionNotCompleted" = "Incomplete";
+
